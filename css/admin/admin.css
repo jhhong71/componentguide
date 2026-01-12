@@ -12,7 +12,7 @@ img { max-width: 100%;}
 #content .cont_body .title .tit_icon{ cursor: pointer; }
 #content .cont_body .title .tit_icon > img{ margin-top: -5px; }
 #content .cont_body .title01{font-size:16px;font-weight:bold;color:#5a5a5a;}
-/*2020 포도나무관리자페이지 수정 KYJ*/
+/*2020 ExampleGuide나무관리자페이지 수정 KYJ*/
 #content .cont_body .tip-wrap { display: inline-block; position: relative; z-index: 2; margin-top: -5px; margin-left: 9.25px; vertical-align: middle;}
 #content .cont_body .title_box{ display: none; width: auto; height: auto; white-space: nowrap; padding: 15px 30px 15px 15px; border-radius: 8px; border: 1px solid #E8E8E8; background: #fff; box-shadow: 0 0 7px rgba(0, 0, 0, 0.05), 4px 4px 10px rgba(0, 0, 0, 0.08); box-sizing: border-box; position: absolute; top: 22px; left: 0; z-index: 99; }
 #content .cont_body .title_box > span{ position: absolute; top: -18px; left: 35px; }
@@ -501,7 +501,7 @@ table.grid-search-area td.last{ border-right: 0; padding: 10px 0; text-align: le
 [class*="btn_"]:focus { border-color: var(--text-gray); color: var(--text-gray);}
 [class*="btn-"] { font-size: 14px; font-weight: 500;}
 
-/*2020 포도나무 관리자페이지 버튼*/
+/*2020 ExampleGuide나무 관리자페이지 버튼*/
 /*버튼_top기본*/
 .btn_top{ height: 42px; margin-left: 5px; padding: 0 16px; letter-spacing: -1px; border-radius: 5px; border: 1px solid #d1d1d1; background: #fff; box-sizing: border-box; cursor: pointer; }
 .btn_top span{ line-height: 40px; text-align: center; font-size: 14px; color: #404040; font-weight: 500; font-family: 'Spoqa Han Sans Neo', sans-serif;}
@@ -1148,8 +1148,8 @@ div.table_btn .btnBox-wrap .edss_more { margin-left: 5px;}
 .statistic-box .surv-wrap .surv-sco-bar{ width: calc(100% - 150px); height: 20px; border-radius: 2px; background: var(--white-500);}
 .statistic-box .surv-wrap .surv-sco-bar > span{ float: left; display: inline-block; width: 0; height: 20px; border-radius: 2px; background: var(--primary-500); transition: width ease-in-out .35s; animation: 0.2s linear 0s infinite normal none running progress-bar-stripes;}
 
-/*2020 포도나무관리자페이지 수정 KYJ*/
-/*2021 포도나무관리자페이지 수정 KHJ*/
+/*2020 ExampleGuide나무관리자페이지 수정 KYJ*/
+/*2021 ExampleGuide나무관리자페이지 수정 KHJ*/
 /* 동영상 콘텐츠 */
 .k-listview * { box-sizing: border-box;}
 .product { display: flex; flex-direction: column; justify-content: space-between; position: relative; width: 272px; height: 397px; padding: 0; border: 1px solid #E8E8E8; background: #ffffff;}

@@ -403,7 +403,7 @@ a:hover, a:active, a:focus{text-decoration:none;}
 #content .cont_body .title .tit_icon{ cursor: pointer; }
 #content .cont_body .title .tit_icon > img{ margin-top: -5px; }
 #content .cont_body .title01{font-size:16px;font-weight:bold;color:#5a5a5a;}
-/*2020 포도나무관리자페이지 수정 KYJ*/
+/*2020 ExampleGuide나무관리자페이지 수정 KYJ*/
 #content .cont_body .tip-wrap { display: inline-block; position: relative; z-index: 2; margin-top: -5px; margin-left: 9.25px; vertical-align: middle;}
 #content .cont_body .title_box{ display: none; width: auto; height: auto; white-space: nowrap; padding: 15px 30px 15px 15px; border-radius: 8px; border: 1px solid #E8E8E8; background: #fff; box-shadow: 0 0 7px rgba(0, 0, 0, 0.05), 4px 4px 10px rgba(0, 0, 0, 0.08); box-sizing: border-box; position: absolute; top: 22px; left: 0; z-index: 99; }
 #content .cont_body .title_box > span{ position: absolute; top: -18px; left: 35px; }
@@ -1524,8 +1524,8 @@ div.table_btn .btn-box-wrap .edss_more { margin-left: 5px;}
 .statistic-box .surv-wrap .surv-sco-bar{ width: calc(100% - 150px); height: 20px; border-radius: 2px; background: #e8e8e8;}
 .statistic-box .surv-wrap .surv-sco-bar > span{ float: left; display: inline-block; width: 0; height: 20px; border-radius: 2px; background: #5C61D4; transition: width ease-in-out .35s; animation: 0.2s linear 0s infinite normal none running progress-bar-stripes;}
 
-/*2020 포도나무관리자페이지 수정 KYJ*/
-/*2021 포도나무관리자페이지 수정 KHJ*/
+/*2020 ExampleGuide나무관리자페이지 수정 KYJ*/
+/*2021 ExampleGuide나무관리자페이지 수정 KHJ*/
 /* 동영상 콘텐츠 */
 /*#videoGrid {padding: 10px;margin-bottom: -1px;}*/
 .k-listview * { box-sizing: border-box;}
@@ -1735,7 +1735,7 @@ html .k-grid-edit-row .k-widget.k-tooltip { color: #ffffff;}
 /* KHJ 190820 �쑀�뒠釉� 肄붾찘�듃 異붽� */
 .youtube-comm { display: block; padding: 10px; background: #fffcb2; font-size: 11px; color: #222; line-height: 1.5; word-break: keep-all;}
 
-/* 2020 포도나무관리자페이지 수정 KYJ */
+/* 2020 ExampleGuide나무관리자페이지 수정 KYJ */
 .k-pager-wrap .k-link{ color: #4c505c; }
 .k-button { width: auto; height: 34px; padding: 0; line-height: 32px; font-size: 14px; border-radius: 0; border: 1px solid #676872; box-sizing: border-box; }
 /*.k-button .k-icon{ display: none; }*/
@@ -1754,7 +1754,7 @@ p.sub_tit{ margin-bottom: 5px; line-height: 38px; font-size: 20px; color: #40404
 .btn_inner_wrap{ display: inline-block; width: 100%; margin: 10px auto; }
 .btn_inner_wrap .btn_inner{ float: right; }
 
-/*2020 포도나무 관리자페이지 버튼*/
+/*2020 ExampleGuide나무 관리자페이지 버튼*/
 /*버튼_top기본*/
 .btn_top{ display: inline-block; /* min-width: 96px; */ height: 42px; margin-left: 5px; padding: 0 16px; letter-spacing: -1px; border-radius: 5px; border: 1px solid #d1d1d1; background: #fff; box-sizing: border-box; cursor: pointer; }
 .btn_top span{ line-height: 40px; text-align: center; font-size: 14px; color: #404040; font-weight: 500; font-family: 'Spoqa Han Sans Neo', sans-serif;}
